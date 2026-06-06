@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "153332414150",
+    "firebase_url": "https://restus-default-rtdb.firebaseio.com",
+    "project_id": "restus",
+    "storage_bucket": "restus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153332414150:android:eb862ebd9d4fc7e08689c7",
+        "android_client_info": {
+          "package_name": "com.example.orderatk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7kmlKJhT03nkP6dUtl_HVcVaGieLlik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153332414150:android:c4a604dd6c03d03f8689c7",
+        "android_client_info": {
+          "package_name": "com.glitch.peach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7kmlKJhT03nkP6dUtl_HVcVaGieLlik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
